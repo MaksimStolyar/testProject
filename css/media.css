@@ -1,0 +1,220 @@
+@media only screen and (max-width: 575px)
+{
+.parallax-window {
+      margin-top: 7%;;
+  }
+.top-bar{
+  left: -40px;
+}
+  .article{
+    display: block;
+}
+.uno {
+    width: 90%;
+    padding-top: 115px;
+}
+    #unon {
+        /background: white;
+        font-size: 26px;
+}
+    .girya>img {
+    display: none;
+}
+    .phone {
+    font-size: 20px;
+    padding: 10px;
+}
+    .toobutton {
+    width: 250px;
+    height: 100px;
+}
+    .search {
+    animation: none;
+}
+    .shop {
+    display: none;
+}
+    .naving {
+    width: 76%;
+    margin: 20px;
+    font-size: 26px;
+}
+    .group {
+    word-wrap: break-word;
+    width: 100%;
+    top: 0px;
+}
+    .group_a {
+        width: 92%;
+    }
+    .on>a>img {
+    height: 250px;
+}
+    .box_1>p {
+    padding-top: 200px;
+}
+    .box_1>p:hover {
+    font-size: 130%;
+}
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.uno {
+    width: 90%;
+    padding-top: 115px;
+}
+    #unon {
+        /background: red;
+        font-size: 26px;
+}
+    .girya>img {
+        display: none;
+}
+    .phone {
+        font-size: 20px;
+        padding: 10px;
+}
+    .toobutton {
+        width: 250px;
+        height: 100px;
+}
+    .search {
+        animation: none;
+}
+    .shop {
+        display: none;
+}
+    .naving {
+        width: 76%;
+        margin: 20px;
+        font-size: 26px;
+}
+    .group {
+        word-wrap: break-word;
+        width: 100%;
+        top: 0px;
+}
+    .group_a {
+        width: 92%;
+    }
+    .on>a>img {
+        height: 250px;
+}
+    .box_1>p {
+        padding-top: 200px;
+}
+    .box_1>p:hover {
+        font-size: 130%;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.uno {
+    width: 100%;
+    padding-top: 125px;
+    margin-left: -1%;
+}
+    #unon {
+      font-size: 37px;
+      margin-left: -17%;
+      margin-top: 10%;
+}
+    .girya>img {
+        display: none;
+}
+    .phone {
+    font-size: 20px;
+    padding: 10px;
+}
+    .toobutton {
+    width: 250px;
+    height: 100px;
+}
+    .search {
+    animation: none;
+}
+    .shop {
+    display: none;
+}
+    .naving {
+    width: 76%;
+    margin: 20px;
+    font-size: 26px;
+}
+    .group {
+    word-wrap: break-word;
+    width: 100%;
+    top: 0px;
+}
+    .group_a {
+        width: 92%;
+    }
+    .on>a>img {
+    height: 250px;
+}
+    .box_1>p {
+    padding-top: 200px;
+}
+    .box_1>p:hover {
+    font-size: 130%;
+}
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px)
+{
+  .uno {
+     width: 100%;
+     padding-top: 110px;
+     margin-left: -6%;
+}
+    #unon {
+    font-size: 40px;
+}
+    .girya>img {
+    display: none;
+}
+    .phone {
+    font-size: 23px;
+    padding: 10px;
+}
+    .toobutton {
+      width: 230px;
+      height: 110px;
+}
+    .search {
+    animation: none;
+}
+    .shop {
+    display: none;
+}
+    .naving {
+      width: 50%;
+      margin: -12px;
+      font-size: 24px;
+      margin-top: 2%;;
+}
+    .group {
+    word-wrap: break-word;
+    width: 100%;
+    top: 0px;
+}
+    .group_a {
+        width: 92%;
+    }
+    .on>a>img {
+    height: 250px;
+}
+    .box_1>p {
+    padding-top: 200px;
+}
+    .box_1>p:hover {
+    font-size: 130%;
+}
+}
+
+
+// Extra large
+@media only screen and (min-width: 1200px) { ... }
+
+/@include media-breakpoint-only(xs) { ... }
+/@include media-breakpoint-only(sm) { ... }
+/@include media-breakpoint-only(md) { ... }
+/@include media-breakpoint-only(lg) { ... }
+/@include media-breakpoint-only(xl) { ... }
